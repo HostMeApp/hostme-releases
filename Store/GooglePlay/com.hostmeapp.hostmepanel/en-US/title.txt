@@ -1,1 +1,1 @@
-HostMe restaurant reservations
+HostMe for Restaurant Management
