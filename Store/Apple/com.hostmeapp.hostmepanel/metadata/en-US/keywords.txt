@@ -1,1 +1,1 @@
-management,tables,restaurant,wait,waitlist,reservation,book,manager,host,diner, waiter, rotation, loyalty
+management,tables,restaurant,wait,waitlist,reservation,book,host,diner,waiter,rotation,loyalty
