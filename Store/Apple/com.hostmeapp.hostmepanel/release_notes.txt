@@ -1,4 +1,3 @@
-1)Phone number is optional in reservation wizard
-2)Online reservation page and widget support for 8 languages
-3)Reservation dashboard stats are extended with total and to be seated cover numbers
-4)Ability to create a demo floor plan
+1)Server rotation. Hostme will suggest the next three servers to be assigned a table.
+2)New floor map tools and improved performance
+3)Online reservations are available in 7 languages
