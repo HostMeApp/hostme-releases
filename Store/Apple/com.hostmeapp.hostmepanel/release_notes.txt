@@ -1,3 +1,0 @@
-1)New graphs in our analytics section. Now you can track how many reservations, waitlist parties, or walk-ins you’ve had.
-2)You can now export the full list in the reservations tab in CSV format.
-3)if you are a bar or nightclub, now you can remove high chair and stroller requests from your reservation form

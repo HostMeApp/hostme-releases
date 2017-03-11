@@ -1,3 +1,4 @@
-1)New graphs in our analytics section. Now you can track how many reservations, waitlist parties, or walk-ins you’ve had.
-2)You can now export the full list in the reservations tab in CSV format.
-3)if you are a bar or nightclub, now you can remove high chair and stroller requests from your reservation form
+1)Ability to reopen a reservation if you’ve seated/closed it accidentally.
+2)Ability to switch special requests off for the online reservation webpage is coming soon under the same settings
+3)Ability to add a new guest in the guestbook.
+4)Bug fixes and improvements
