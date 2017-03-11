@@ -1,4 +1,4 @@
-1)Ability to reopen a reservation if you’ve seated/closed it accidentally.
+1)Ability to reopen a reservation if you’ve seated or closed it accidentally.
 2)Ability to switch special requests off for the online reservation webpage is coming soon under the same settings
 3)Ability to add a new guest in the guestbook.
 4)Bug fixes and improvements
