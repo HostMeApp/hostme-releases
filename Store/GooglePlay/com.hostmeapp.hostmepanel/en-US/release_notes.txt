@@ -1,4 +1,4 @@
-1)Ability to reopen a reservation if you have seated or closed it accidentally.
-2)Ability to switch special requests off for the online reservation webpage is coming soon under the same settings
-3)Ability to add a new guest in the guestbook.
-4)Bug fixes and improvements
+1)Fresh feel and a better experience for administrative console. More changes are coming step-by-step this spring.
+2)Adjust the minimum booking notice. Use minimum notice to stop people making bookings that start too soon.
+3)Ability to switch off the sessions screen when you add a new reservation, so now you can hide this step.
+4)Now you can allow guests without phone number or email to be saved in your guestbook.
