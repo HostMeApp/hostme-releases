@@ -6,7 +6,7 @@ For restaurant guests:
 - Free and instant updates on your waiting list status sent directly to your phone, giving you the freedom to go shopping, wait at home or enjoy other activities instead of just waiting in close proximity of the host stand.  
 - Giving the host a chance to seat you in the shortest possible amount of time, while keeping the line well organized. 
 - Ability to get in line remotely
-- Convenient reservation system
+- Convenient online reservation system
 - Special bonuses for loyal customers
 
 For restaurant host: 
