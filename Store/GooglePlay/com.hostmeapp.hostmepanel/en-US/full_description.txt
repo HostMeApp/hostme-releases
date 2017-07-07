@@ -14,5 +14,5 @@ Maximize your host stand's efficiency and eliminate costly pager losses by track
 
 RESTAURANT LOYALTY SYSTEM
 Quickly and easily create a custom loyalty program so you can fill tables on slow days, reward your guests, and get to know your customers.
-Contact GitHub API Training Shop Blog About
+
 
