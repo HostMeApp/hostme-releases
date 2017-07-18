@@ -1,1 +1,1 @@
-hostme, restaurant, pager system, waiting list, patron, host, loyalty,table management, server rotation
+hostme, restaurant, waiting list, waitlist, table management, server rotation, manage guests, connect your restaurant, guest network, diners, manage guests flow, table turns, servers rotation, seating experience, waitlist, waitlist and reservation management, custom floor map, analytics suite
