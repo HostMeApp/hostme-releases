@@ -1,9 +1,10 @@
-Offer exceptional dining experiences - one guest at a time!
+You dreamed it, we've built it! 
+Seat more and spend less with Hostme
 
 With Hostme, maximize your restaurant seatings through advanced reservation management, table management, waitlist management  and customized loyalty programs - all from a completely customizable app!
 
 RESTAURANT RESERVATIONS SYSTEM
-Accept reservations from your website or the mobile app while protecting your restaurant from no-shows and avoiding double-booking!
+Accept online reservations from your website or the mobile app while protecting your restaurant from no-shows and avoiding double-booking!
 
 TABLE MANAGEMENT
 Seat more guests with one-click table assignment capability and restaurant occupancy tracking on a totally customizable floor map.
@@ -13,3 +14,5 @@ Maximize your host stand's efficiency and eliminate costly pager losses by track
 
 RESTAURANT LOYALTY SYSTEM
 Quickly and easily create a custom loyalty program so you can fill tables on slow days, reward your guests, and get to know your customers.
+
+

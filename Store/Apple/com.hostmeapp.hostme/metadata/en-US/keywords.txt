@@ -1,1 +1,1 @@
-host me,restaurant,pager system,waiting list,patron,host,loyalty,feedback,facebook,foursquare,mobile
+hostme, restaurant, pager system, waiting list, patron, host, loyalty,table management, server rotation
