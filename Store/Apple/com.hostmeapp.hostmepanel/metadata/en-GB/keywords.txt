@@ -1,1 +1,1 @@
-management,tables,restaurant,wait,waitlist,reservation,online reservation, booking,host,diner,waiter,server rotation,loyalty, restaurant management, CRM
+online reservation, restaurant reservation, tables,restaurant,wait,waitlist,booking,host,diner,waiter,server rotation, restaurant management, CRM, operational efficiency,real-time seating availability,seating experience, restaurant booking 
