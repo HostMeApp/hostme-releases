@@ -6,11 +6,17 @@ With Hostme, maximize your restaurant seatings through advanced reservation mana
 RESTAURANT RESERVATIONS SYSTEM
 Accept online reservations from your website or the mobile app while protecting your restaurant from no-shows and avoiding double-booking!
 
-TABLE MANAGEMENT
-Seat more guests with one-click table assignment capability and restaurant occupancy tracking on a totally customizable floor map.
+INTELLIGENT TABLE MANAGEMENT
+Maximize table capacity by visually assessing your restaurant occupancy, automatically block sections or days, and strategically seat larger parties.
 
-WAIT LIST
-Maximize your host stand's efficiency and eliminate costly pager losses by tracking wait times and sending guests an SMS when their table is ready.
+SMART WAITLISTS
+Eliminate the need for costly pagers and efficiently manage your waitlist with accurate wait time prediction based on party size. Notify guests when their table is ready using their phone, thus giving them the freedom to wait wherever they please!
 
 RESTAURANT LOYALTY SYSTEM
 Quickly and easily create a custom loyalty program so you can fill tables on slow days, reward your guests, and get to know your customers.
+
+SERVER MANAGEMENT
+Monitor your server rotation, quickly re-assign tables and track the history of server assignments.
+
+ADVANCED ANALYTICS
+Track your restaurant activity and reservations and find problem spots.
